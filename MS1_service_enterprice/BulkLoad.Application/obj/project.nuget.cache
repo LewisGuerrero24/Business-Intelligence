@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "0SHn9bhGCA0=",
+  "success": true,
+  "projectFilePath": "/home/maicolcubides/Documentos/Documentos Fedora 43/Documentos/MS1_service_enterprice/BulkLoad.Application/BulkLoad.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/maicolcubides/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/home/maicolcubides/.nuget/packages/fluentvalidation/11.12.0/fluentvalidation.11.12.0.nupkg.sha512",
+    "/home/maicolcubides/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.12.0/fluentvalidation.dependencyinjectionextensions.11.12.0.nupkg.sha512",
+    "/home/maicolcubides/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.5/microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512",
+    "/home/maicolcubides/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.5/microsoft.extensions.logging.abstractions.10.0.5.nupkg.sha512",
+    "/home/maicolcubides/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/home/maicolcubides/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'AutoMapper' 13.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "projectPath": "/home/maicolcubides/Documentos/Documentos Fedora 43/Documentos/MS1_service_enterprice/BulkLoad.Application/BulkLoad.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/maicolcubides/Documentos/Documentos Fedora 43/Documentos/MS1_service_enterprice/BulkLoad.Application/BulkLoad.Application.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
